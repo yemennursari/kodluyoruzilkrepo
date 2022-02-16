@@ -4,5 +4,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 =======
 
 >>>>>>> e8c4d9c2d7b5e7b456493a11676611d1de117c29
-![alt text](http://url/to/Ekran Görüntüsü (503).png)
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/Ekran Görüntüsü (503).png)
 # Installation
+
