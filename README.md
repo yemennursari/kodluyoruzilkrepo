@@ -4,4 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 ![Ekran remi](C:\Users\YEMENNUR\Pictures\Screenshots\Ekran Görüntüsü (503).png)
 
 # Installation
+Öncelikle projeyi clonelayın. (https://github.com/yemennursari/kodluyoruzilkrepo.git)
+[metin](https://github.com/yemennursari/kodluyoruzilkrepo.git)
+
 
