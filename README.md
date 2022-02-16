@@ -5,6 +5,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 # Installation
 Öncelikle projeyi clonelayın. (https://github.com/yemennursari/kodluyoruzilkrepo.git)
-[metin](https://github.com/yemennursari/kodluyoruzilkrepo.git)
+[(https://github.com/yemennursari/kodluyoruzilkrepo.git)]
 
 
